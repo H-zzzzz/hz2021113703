@@ -1,0 +1,2 @@
+top -n 1 >> result.txt
+ps -ef | grep hello world | kill
